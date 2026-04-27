@@ -1,0 +1,10 @@
+streamlit
+pyspark
+pandas
+numpy
+matplotlib
+seaborn
+missingno
+scikit-learn
+findspark
+xgboost[spark]
